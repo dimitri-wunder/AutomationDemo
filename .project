@@ -1,0 +1,23 @@
+#Mon Apr 03 01:31:50 PDT 2017
+mobile=true
+Log.reporters=Test_Executor,Test_Recorder,Code_Editor,Device_Viewer,
+version=2
+Log.reporters.Device_Viewer.severity=Default
+app.name=adb\:GT-I9195
+Log.reporters.Test_Executor.status=true
+last.test=Basic Fake Login
+Log.reporters.Code_Editor.severity=Default
+lastZone=default
+Log.timeCB=true
+Log.reporters.Test_Executor.severity=Default
+Log.reporters.Code_Editor.status=true
+language=LANG_ENG
+Log.reporters.Device_Viewer.status=true
+Log.sourceCB=true
+Log.generalSeverity=Info
+Log.reporters.Test_Recorder.severity=Default
+translator=Java TestNG
+Log.reporters.Test_Recorder.status=true
+Log.severityCB=true
+text_substitutions=
+platform=GENERIC

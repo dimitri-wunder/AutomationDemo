@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="id" value="action_bar_root"/>
+<property type="resource-id" value="org.wundercar.android:id/action_bar_root"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+</properties>
+<children>
+<node h="960" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,960]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="960"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+</properties>
+<children>
+<node h="685" ignored="false" w="540" web="false" x="0" y="0">
+<properties>
+<property type="id" value="login_signup_wunder_image"/>
+<property type="resource-id" value="org.wundercar.android:id/login_signup_wunder_image"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][540,685]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="540"/>
+<property type="height" value="685"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+</properties>
+<children/>
+</node>
+<node h="29" ignored="false" w="468" web="false" x="36" y="721">
+<properties>
+<property type="id" value="login_signup_onboarding_text"/>
+<property type="resource-id" value="org.wundercar.android:id/login_signup_onboarding_text"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="Carpool to work with friends &amp; neighbors."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[36,721][504,750]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="36"/>
+<property type="y" value="721"/>
+<property type="width" value="468"/>
+<property type="height" value="29"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+</properties>
+<children/>
+</node>
+<node h="90" ignored="false" w="240" web="false" x="150" y="786">
+<properties>
+<property type="id" value="signup"/>
+<property type="resource-id" value="org.wundercar.android:id/signup"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Sign up"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[150,786][390,876]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="150"/>
+<property type="y" value="786"/>
+<property type="width" value="240"/>
+<property type="height" value="90"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="139" web="false" x="200" y="876">
+<properties>
+<property type="id" value="login"/>
+<property type="resource-id" value="org.wundercar.android:id/login"/>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Log in"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[200,876][339,948]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="200"/>
+<property type="y" value="876"/>
+<property type="width" value="139"/>
+<property type="height" value="72"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="50" ignored="false" w="122" web="false" x="209" y="72">
+<properties>
+<property type="id" value="login_signup_wunder_logo"/>
+<property type="resource-id" value="org.wundercar.android:id/login_signup_wunder_logo"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[209,72][331,122]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="209"/>
+<property type="y" value="72"/>
+<property type="width" value="122"/>
+<property type="height" value="50"/>
+<property type="package" value="org.wundercar.android"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

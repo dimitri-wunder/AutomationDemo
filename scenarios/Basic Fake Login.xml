@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><commands version="10.4">
+<command appiumName="SetDevice(Device)" enable="false" name="SetDevice(Device)">
+<parameters>
+<parameter appium="true" defaultValue="adb:GT-I9195" description="Device name" name="Device" pattern="" type="application"/>
+</parameters>
+</command>
+<command appiumName="" enable="true" name="ApplicationClearData(app)">
+<parameters>
+<parameter appium="false" defaultValue="org.wundercar.android" description="The application's package name" name="Package Name" pattern="" type="clearData"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click" enable="true" name="Click(Zone, Element, Index, ClickCount)" x="139" y="213">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@text='Wunder']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement" enable="true" name="VerifyElementFound(Zone, Element, Index)">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@text='Log in']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order (=the number of times the element appears more and above the first time)" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click" enable="true" name="Click(Zone, Element, Index, ClickCount)" x="200" y="876">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@text='Log in']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='email']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="SendKeys(Text)" enable="true" name="SendText(Text)">
+<parameters>
+<parameter appium="true" defaultValue="fakelogin@login.org" description="Text to send" name="Text" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="FindElement and Click" enable="true" name="Click(Zone, Element, Index, ClickCount)">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='password']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+<command appiumName="SendKeys(Text)" enable="true" name="SendText(Text)">
+<parameters>
+<parameter appium="true" defaultValue="fakenewslogin" description="Text to send" name="Text" pattern="" type="string"/>
+</parameters>
+</command>
+<command appiumName="HideKeyboard()" enable="true" name="CloseKeyboard()">
+<parameters/>
+</command>
+<command appiumName="FindElement and Click" enable="true" name="Click(Zone, Element, Index, ClickCount)" x="150" y="550">
+<parameters>
+<parameter appium="false" defaultValue="NATIVE" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter appium="true" defaultValue="xpath=//*[@id='cta']" description="Select Element" name="Element" pattern="" type="element"/>
+<parameter appium="false" defaultValue="0" description="Element Order" name="Index" pattern="" type="integer"/>
+<parameter appium="false" defaultValue="1" description="Number of Clicks" name="Click Count" pattern="" type="integer"/>
+</parameters>
+</command>
+</commands>

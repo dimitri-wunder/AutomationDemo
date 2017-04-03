@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="default">
+<obj text="Log in" version="1">
+<images enable="false">
+<image file="default\Log in_2.PNG" jump="1" mainColor="-6f6f70" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="login" class="android.support.v7.widget.AppCompatButton" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="" id="login" method="text" methodBB="" methodIOS="text" methodWP="" nameWP="" placeholderIOS="Log in" scriptIOS="" text="Log in" textBB="" textIOS="Log in" textWP="" value="Log in" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Email" version="1">
+<images enable="false">
+<image file="default\Email_1.PNG" jump="1" mainColor="-20203" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="email" class="android.support.v7.widget.AppCompatEditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Email" id="email" method="hint" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Email" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Email" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+<obj text="Password" version="1">
+<images enable="false">
+<image file="default\Password.PNG" jump="1" mainColor="-10102" max="0" min="0" scanner="Advance Similarity" similarity="99"/>
+</images>
+<text color="2147483647" enable="false" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text=""/>
+<native aiIOS="" alIOS="password" class="android.support.design.widget.TextInputEditText" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="true" enableBB="false" enableIOS="true" enableWP="false" hint="Password" id="password" method="hint" methodBB="class" methodIOS="placeholder" methodWP="class" nameWP="" placeholderIOS="Password" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="Password" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>
